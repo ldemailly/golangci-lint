@@ -345,8 +345,8 @@ github.com/kyoh86/exportloopref v0.1.11 h1:1Z0bcmTypkL3Q4k+IDHMWTcnCliEZcaPiIe0/
 github.com/kyoh86/exportloopref v0.1.11/go.mod h1:qkV4UF1zGl6EkF1ox8L5t9SwyeBAZ3qLMd6up458uqA=
 github.com/lasiar/canonicalheader v1.1.1 h1:wC+dY9ZfiqiPwAexUApFush/csSPXeIi4QqyxXmng8I=
 github.com/lasiar/canonicalheader v1.1.1/go.mod h1:cXkb3Dlk6XXy+8MVQnF23CYKWlyA7kfQhSw2CcZtZb0=
-github.com/ldemailly/panic-linter v0.2.1 h1:Llh2KfvOoSuY+1GEZzRQkZLCjpEIsJlfyIv9nHkv4mc=
-github.com/ldemailly/panic-linter v0.2.1/go.mod h1:gz+Uj5blylcIwQROn9+xm5cUa6kLNVW5sWCbx5FqeHA=
+github.com/ldemailly/panic-linter v0.2.4 h1:ah11S2QMKrkL2tavfIoqSz/ZsXFAMmyPkZiZ/ybugmI=
+github.com/ldemailly/panic-linter v0.2.4/go.mod h1:AgPJMpzC2vP84oOggMri8dRetywCIYwmVdnBqyViR1A=
 github.com/ldez/gomoddirectives v0.2.4 h1:j3YjBIjEBbqZ0NKtBNzr8rtMHTOrLPeiwTkfUJZ3alg=
 github.com/ldez/gomoddirectives v0.2.4/go.mod h1:oWu9i62VcQDYp9EQ0ONTfqLNh+mDLWWDO+SO0qSQw5g=
 github.com/ldez/tagliatelle v0.5.0 h1:epgfuYt9v0CG3fms0pEgIMNPuFf/LpPIfjk4kyqSioo=
